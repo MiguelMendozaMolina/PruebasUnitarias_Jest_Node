@@ -1,4 +1,4 @@
-# Pruebas Unitarias Jest en Node
+# Pruebas Unitarias con Jest en Node
 Jest es una herramienta que nos permite poder realizar pruebas unitarias al codigo creado, el concepto de prueba no es revisar todas las 
 lineas de codigo sino revisar los puntos criticos de la aplicacion, como puede ser las solicitud a una API. 
 
